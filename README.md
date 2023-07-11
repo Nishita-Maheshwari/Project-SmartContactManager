@@ -1,8 +1,12 @@
 # Project-SmartContactManager
 
 SpringBoot 
-Spring MVC 
+
+Spring MVC
+
 JPA-Hibernate 
+
 Thymeleaf 
+
 Spring Security 
  
