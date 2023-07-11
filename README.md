@@ -1,8 +1,8 @@
 # Project-SmartContactManager
 
-SpringBoot
-Spring MVC
-JPA-Hibernate
-Thymeleaf
-Spring Security
+SpringBoot 
+Spring MVC 
+JPA-Hibernate 
+Thymeleaf 
+Spring Security 
  
